@@ -11,7 +11,7 @@
       "id": 1,
       "nombre": "Mega",
       "slug": "mega",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Mega_Chile_logo.svg/2560px-Mega_Chile_logo.svg.png",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Mega_Chile_2020.png",
       "descripcion": "Canal líder en Chile con entretenimiento, noticias y programas de farándula para toda la familia.",
       "categoria": "Entretenimiento",
       "calidad": "HD",
@@ -24,7 +24,7 @@
       "rating": 4.5,
       "vistas": 125430,
       "fuentes": [
-        { "id": "f1", "label": "Fuente 1", "tipo": "embed", "url": "https://www.youtube.com/embed/live_stream?channel=UCdSoqpNuGerAcXxFjcHnXsg", "calidad": "HD" },
+        { "id": "f1", "label": "Fuente 1", "tipo": "embed", "url": "https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8", "calidad": "HD" },
         { "id": "f2", "label": "Fuente 2", "tipo": "hls",   "url": "https://live.megamedia.cl/hls/megahd.m3u8", "calidad": "HD" },
         { "id": "f3", "label": "Fuente 3", "tipo": "embed", "url": "", "calidad": "SD" }
       ]
